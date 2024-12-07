@@ -18,7 +18,7 @@ export function Footer() {
             <a href={constant?.linkedin} target="_blank" rel="noopener noreferrer" className="hover:text-indigo-400">
               <Linkedin className="w-6 h-6" />
             </a>
-            <a href="mailto:john.doe@example.com" className="hover:text-indigo-400">
+            <a href="mailto:akhilcsk1111@gmail.com" className="hover:text-indigo-400">
               <Mail className="w-6 h-6" />
             </a>
           </div>
